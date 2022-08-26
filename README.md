@@ -30,7 +30,7 @@ $ export PATH="$HOME/.poetry/bin:$PATH"
 Clone the repository
 
   ```bash
-  $ git clone https://github.com/Arkemix30/school-payment-management-backend
+  $ git clone https://github.com/Arkemix30/discord-sms-bot
   ```
 
 Enter into project's root folder and run:
